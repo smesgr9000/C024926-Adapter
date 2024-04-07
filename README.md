@@ -3,7 +3,7 @@
 drop in replacement for Atari 7800 game ROMs DIP-28 for Atari C024926 or CO24926 PCBs. So if you game died but you want to reuse the original PCB to fix your cartridge.
 The PCB will slot in the PINs on the PCB an can be used for 32kB-ROMs.
 
-![C024926-Adapter installed on an C024926-1 Rev. 1](<./C024826.jpg>)
+![C024926-Adapter installed on an C024926-1 Rev. 1](<./C024926.jpg>)
 
 ## Order PCB
 To order the latest version either use KiCad or use release zip from GitHub.
