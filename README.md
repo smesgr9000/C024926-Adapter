@@ -76,5 +76,5 @@ if jumper isn't used please bridge pin 1 and 2 "Use", see picture above.
 
 ## Jumper
 
-Use: Default, if the adapter is used in the cartridge
-Prg: If the EEPROM should be programmed see chapter "Programm the EEPROM"
+- Use: Default, if the adapter is used in the cartridge
+- Prg: If the EEPROM should be programmed see chapter "Programm the EEPROM"
