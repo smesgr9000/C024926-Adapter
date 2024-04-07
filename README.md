@@ -30,7 +30,7 @@ Upload a zip containing the above generated files or use the release zip. Curren
 Use your IC burner to program your dump back on the EPROM. Be aware to burn data without any headers. If you want to program the EEPROM after soldering set both Jumpers JP1 and 2 to "Prg" and wire your burner by crossing pin 1 and 27. See below:
 
 Burner Pins | C024926-Adapter | header pin | C024926 pin description
---- | --- | ---
+--- | --- | --- | ---
 27 | 1 | J1 1 | Write Enabled (WE)
 2 | 2 | J1 2 | A12
 3 | 3 | J1 3 | A7
