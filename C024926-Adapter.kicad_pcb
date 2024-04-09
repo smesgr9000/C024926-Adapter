@@ -2107,7 +2107,7 @@
   (gr_text "A11" (at 166.2 86.106) (layer "B.SilkS") (tstamp 6818b44f-451d-4fd7-b2f6-f5e303b6b9e4)
     (effects (font (size 0.5 0.5) (thickness 0.1) bold) (justify left bottom mirror))
   )
-  (gr_text "https://github.com/\nsmesgr9000/C024826-Adapter\nRev 2" (at 160.02 81.7) (layer "B.SilkS") (tstamp 6b5fa7ed-23a4-44b2-81e4-1beb8eed311c)
+  (gr_text "https://github.com/\nsmesgr9000/C024926-Adapter\nRev 2" (at 160.02 81.7) (layer "B.SilkS") (tstamp 6b5fa7ed-23a4-44b2-81e4-1beb8eed311c)
     (effects (font (size 0.5 0.5) (thickness 0.1)) (justify mirror))
   )
   (gr_text "A4" (at 155 86.106) (layer "B.SilkS") (tstamp 725e28f5-7bcb-4a5c-ab72-6f6260967bc1)
